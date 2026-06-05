@@ -42,7 +42,7 @@ Não versionar chaves de API. O arquivo `.env` deve permanecer apenas no ambient
 
 Na demonstração, envie pela interface um PDF gerado a partir da primeira página da documentação oficial da AWS sobre o Amazon DynamoDB.
 
-Fonte: https://docs.aws.amazon.com/
+Fonte: https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/Introduction.html
 
 O conteúdo é usado exclusivamente para fins acadêmicos e demonstração da arquitetura RAG.
 
